@@ -8,3 +8,6 @@
 4. For the dataset, please follow the link below
 
 https://www.kaggle.com/datasets/gauravduttakiit/pharmaceutical-drug-recognition?rvi=1
+
+![image](https://github.com/Document-Data-Analyst/Pharmaceutical-Drug-CLassification/assets/22766772/43f453da-8f89-4c49-a716-f9305a66967f)
+
